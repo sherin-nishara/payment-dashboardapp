@@ -17,7 +17,7 @@ A cross-platform full-stack app for managing and analyzing payment transactions,
 | Frontend  | Expo (React Native), Axios            |
 | Backend   | NestJS, Mongoose (MongoDB), JWT       |
 | Database  | MongoDB Atlas                         |
-| Storage   | SecureStore / AsyncStorage            |
+| Storage   | AsyncStorage            |
 
 ## Project Structure
 payment-dashboard/
