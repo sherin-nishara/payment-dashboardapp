@@ -7,7 +7,7 @@ import { PaymentsModule } from './payments/payments.module';
 
 @Module({
   imports: [
-    MongooseModule.forRoot('mongodb+srv://sherinnishara:ars3124hussain@cluster0.1xmzhmz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'),
+    MongooseModule.forRoot('<your-mongodb-atlas-url>'),
     AuthModule,
     UsersModule,
     PaymentsModule,
