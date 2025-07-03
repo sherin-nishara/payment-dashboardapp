@@ -102,7 +102,6 @@ Get Payments:
 
 -  Dashboard
   ![Screenshot_20250703_171949_Expo Go](https://github.com/user-attachments/assets/9e0cda25-5116-4b6a-a4e1-a5cd9e857f96)
-  ![Screenshot_20250703_171819_Expo Go](https://github.com/user-attachments/assets/7c5a10bc-6086-4144-9f8c-c362d148c40f)
 
 -  Fiter with Date/ Status
 ![Screenshot_20250703_172159_Expo Go](https://github.com/user-attachments/assets/620c5f0e-a969-49bf-ba45-5b270874af77)
