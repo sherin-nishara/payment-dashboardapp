@@ -104,9 +104,8 @@ Get Payments:
   ![Screenshot_20250703_172159_Expo Go](https://github.com/user-attachments/assets/620c5f0e-a969-49bf-ba45-5b270874af77)
 
 -  Fiter with Date/ Status
- [Screenshot_20250703_171949_Expo Go](https://github.com/user-attachments/assets/9e0cda25-5116-4b6a-a4e1-a5cd9e857f96)
-
- ![Screenshot_20250703_172028_Expo Go](https://github.com/user-attachments/assets/143fdf02-edd6-4a63-b07e-da6e55075d26)
+  ![Screenshot_20250703_171949_Expo Go](https://github.com/user-attachments/assets/9e0cda25-5116-4b6a-a4e1-a5cd9e857f96)
+  ![Screenshot_20250703_172028_Expo Go](https://github.com/user-attachments/assets/143fdf02-edd6-4a63-b07e-da6e55075d26)
 
 -  Add Payment screen
 ![Screenshot_20250703_171747_Expo Go](https://github.com/user-attachments/assets/4b77388c-2024-446b-9ece-5ff94a417f29)
