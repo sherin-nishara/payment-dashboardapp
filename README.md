@@ -15,19 +15,8 @@ A cross-platform full-stack app for managing and analyzing payment transactions,
 | Frontend  | Expo (React Native), Axios            |
 | Backend   | NestJS, Mongoose (MongoDB), JWT       |
 | Database  | MongoDB Atlas                         |
-| Storage   | AsyncStorage            |
+| Storage   | AsyncStorage                          |
 
-## Project Structure
-payment-dashboard/
-├── client/       
-│   ├── app/     
-│   ├── services/
-│   └── components/
-├── server/      
-│   ├── auth/
-│   ├── payments/
-│   ├── users/
-│   └── main.ts
 
 ##  Backend Setup
 
@@ -107,11 +96,28 @@ Get Payments:
 
 ##  Screenshots
 
-- ✅ Dashboard with cards
-  
-- ✅ Add Payment screen
-- ✅ User list screen (admin)
+-  Login 
+![Screenshot_20250702_204736_Expo Go (1)](https://github.com/user-attachments/assets/cf62c63f-f164-4996-b6cc-dbd86a57ea36)
+![Screenshot_20250703_003916_Expo Go](https://github.com/user-attachments/assets/31284f1b-da2b-4ca1-b7af-d2c5bd9deb11)
 
+-  Dashboard
+  ![Screenshot_20250703_171949_Expo Go](https://github.com/user-attachments/assets/9e0cda25-5116-4b6a-a4e1-a5cd9e857f96)
+  ![Screenshot_20250703_171819_Expo Go](https://github.com/user-attachments/assets/7c5a10bc-6086-4144-9f8c-c362d148c40f)
+
+-  Fiter with Date/ Status
+![Screenshot_20250703_172159_Expo Go](https://github.com/user-attachments/assets/620c5f0e-a969-49bf-ba45-5b270874af77)
+![Screenshot_20250703_172028_Expo Go](https://github.com/user-attachments/assets/143fdf02-edd6-4a63-b07e-da6e55075d26)
+
+-  Add Payment screen
+![Screenshot_20250703_171747_Expo Go](https://github.com/user-attachments/assets/4b77388c-2024-446b-9ece-5ff94a417f29)
+![Screenshot_20250703_171741_Expo Go](https://github.com/user-attachments/assets/dd0daefa-0992-4bde-9b16-132bd3faa0ee)
+
+-  Transaction Details screen 
+![Screenshot_20250703_172347_Expo Go](https://github.com/user-attachments/assets/770f760d-2ed6-4859-8f89-ff12e1d0960d)
+![Screenshot_20250703_172233_Expo Go](https://github.com/user-attachments/assets/5a714008-963c-4d85-ab09-e299960e505e)
+
+##  Video Demo
+https://drive.google.com/file/d/1YWCo3h7n5ODIuugpNdC05b_or7mImwGJ/view?usp=sharing
 
 ##  Author
 **Sherin Nishara**  
