@@ -1,16 +1,14 @@
-# 🧾 Full-Stack Payment Dashboard App
+#  Full-Stack Payment Dashboard App
 
 A cross-platform full-stack app for managing and analyzing payment transactions, with user authentication and an admin panel.
 
-## 🚀 Features
+##  Features
 -  JWT authentication (login/logout)
 -  Add and view payment transactions
 -  Dashboard with status badges
--  Admin analytics for trends
--  User management screen
 -  MongoDB Atlas cloud database
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Layer     | Tech                                  |
 |-----------|---------------------------------------|
@@ -21,17 +19,17 @@ A cross-platform full-stack app for managing and analyzing payment transactions,
 
 ## Project Structure
 payment-dashboard/
-├── client/       # Expo frontend
-│   ├── app/      # screens and routes
+├── client/       
+│   ├── app/     
 │   ├── services/
 │   └── components/
-├── server/       # NestJS backend
+├── server/      
 │   ├── auth/
 │   ├── payments/
 │   ├── users/
 │   └── main.ts
 
-## ⚙️ Backend Setup
+##  Backend Setup
 
 ```bash
 cd server
@@ -51,7 +49,7 @@ npm run start:dev
 
 Backend runs at: `http://<your-ip>:3000`
 
-## 📱 Frontend Setup
+##  Frontend Setup
 
 ```bash
 cd client
@@ -66,13 +64,13 @@ baseURL: 'http://<your-ip>:3000'
 
 Use Expo Go app to scan and open.
 
-## 🔐 Sample Credentials
+##  Sample Credentials
 
 | Username | Password   | Role   |
 |----------|------------|--------|
 | admin    | admin123   | admin  |
 
-## 📬 API Endpoints
+##  API Endpoints
 
 ### Auth
 POST /auth/login  
@@ -95,13 +93,22 @@ POST /auth/login
 
 ## 🧪 Postman Test Example
 
+Users:
+![post5](https://github.com/user-attachments/assets/06fb844f-4cba-49fe-ac14-e84911dca2ac)
+
 Login:
+![post2](https://github.com/user-attachments/assets/7dff9afe-6247-4a17-ad4e-682575d09148)
 
 Add Payment:
+![post4](https://github.com/user-attachments/assets/1a6c0600-db7f-4f46-a0c6-ca55b65ad7af)
+
+Get Payments:
+![post3](https://github.com/user-attachments/assets/57dfd810-e874-47f4-87b4-42970d78bb7f)
 
 ##  Screenshots
 
 - ✅ Dashboard with cards
+  
 - ✅ Add Payment screen
 - ✅ User list screen (admin)
 
