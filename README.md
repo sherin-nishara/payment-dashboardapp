@@ -120,4 +120,4 @@ https://drive.google.com/file/d/1YWCo3h7n5ODIuugpNdC05b_or7mImwGJ/view?usp=shari
 
 ##  Author
 **Sherin Nishara**  
-📧 sherin@example.com
+📧 sherinnishara@outlook.com
